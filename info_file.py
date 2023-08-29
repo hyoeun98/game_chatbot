@@ -25,7 +25,7 @@ for filename in os.listdir(input_folder):
         game_info = data[game_id]["data"]
         title = game_info["name"]
         price = "무료" if game_info["is_free"] else "유료"
-        detailed_description = game_info["detailed_description"]
+        short_description = game_info["short_description"]
         genres = [genre["description"] for genre in game_info["genres"]]
         categories = [category["description"] for category in game_info["categories"]]
 
@@ -38,7 +38,7 @@ for filename in os.listdir(input_folder):
                     "role": "assistant",
                     "content": {
                         "가격": price,
-                        "설명": detailed_description,
+                        "설명": short_description,
                         "카테고리": ", ".join(genres + categories)
                     }
                 }
