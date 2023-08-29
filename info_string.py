@@ -25,26 +25,30 @@ for filename in os.listdir(input_folder):
         data = json.loads(json_data)
 
         # 필요한 정보 추출
-        game_info = data[game_id]["data"]
-        title = game_info["name"]
-        price = "무료" if game_info["is_free"] else "유료"
-        short_description = game_info["short_description"]
-        genres = [genre["description"] for genre in game_info["genres"]]
-        categories = [category["description"] for category in game_info["categories"]]
+        try:
+            game_info = data[game_id]["data"]
+            title = game_info["name"]
+            price = "free" if game_info["is_free"] else "not free"
+            short_description = game_info["short_description"]
+            genres = [genre["description"] for genre in game_info["genres"]]
+            categories = [category["description"] for category in game_info["categories"]]
 
-        # 새로운 JSON 데이터 생성
-        new_data = {
-            "messages": [
-                {"role": "system", "content": "You are professional gamer"},
-                {"role": "user", "content": f"{title}에 대해 알려줘"},
-                {
-                    "role": "assistant",
-                    "content": f"이 게임은 {short_description}이고 가격은 {price}고 카테고리는 {', '.join(genres + categories)}야."
-                }
-            ]
-        }
+            # 새로운 JSON 데이터 생성
+            new_data = {
+                "messages": [
+                    {"role": "system", "content": "You are a chatbot who recommends games"},
+                    {"role": "user", "content": f"Let me know what {title} is"},
+                    {
+                        "role": "assistant",
+                        "content": f"description : {short_description}, it is {price} game, categories : [{', '.join(genres + categories)}]."
+                    }
+                ]
+            }
 
-        new_data_json_string = json.dumps(new_data, ensure_ascii=False)
-        with open(output_json_file_path, "a", encoding="utf-8") as output_file:
-            output_file.write(new_data_json_string + "\n")
+            new_data_json_string = json.dumps(new_data, ensure_ascii=False)
+            with open(output_json_file_path, "a", encoding="utf-8") as output_file:
+                output_file.write(new_data_json_string + "\n")
+        except KeyError:
+            ...
+            
 print("모든 JSON 파일을 처리하여 결과를 저장했습니다.")
