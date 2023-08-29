@@ -39,11 +39,7 @@ for filename in os.listdir(input_folder):
                 {"role": "user", "content": f"{title}에 대해 알려줘"},
                 {
                     "role": "assistant",
-                    "content": {
-                        "가격": price,
-                        "설명": short_description,
-                        "카테고리": ", ".join(genres + categories),
-                    }
+                    "content": f"이 게임은 {short_description}이고 가격은 {price}고 카테고리는 {', '.join(genres + categories)}야."
                 }
             ]
         }
