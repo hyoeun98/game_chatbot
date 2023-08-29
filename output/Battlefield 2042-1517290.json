@@ -1,0 +1,304 @@
+{
+    "1517290": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Battlefield\u2122 2042",
+            "steam_appid": 1517290,
+            "required_age": "17",
+            "is_free": false,
+            "controller_support": "full",
+            "dlc": [
+                2363740,
+                2363741
+            ],
+            "detailed_description": "<h1>Never back down in Battlefield\u2122 2042 \u2013 Season 5: New Dawn</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/Steam_BF2042_Season5_Beautyshot.png?t=1690979223\" /><br>In Season 5, a new dawn is upon the No-Pats. Head to Czechia, where the warmest welcome you\u2019ll get is down the barrel of a gun. Battle by an abandoned factory retaken by nature on the new map Reclaimed. Expand your arsenal with the XCE Bar bolt-action rifle, the GEW-46 assault rifle, and the powerful BFP.50 hand cannon. As you gather your squad, load up with three new types of grenades and show your foes just how sharp your teeth are. Enjoy a plethora of improvements to Battlefield 2042, including a rework of vehicle loadouts, new weapon stations like thermal tech and heavy anti-air, rehauled Vault weapons, and a reworked version of the Hourglass map. So, show no mercy \u2013 and never back down.</p><br><h1>Battlefield\u2122 2042 Elite Edition</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/Steam_BF2042_S5_Year2_Comparison_table.png?t=1690979223\" /><br><br>Get the definitive version of Battlefield\u2122 2042. Packed to the brim with value, Battlefield 2042 Elite Edition contains:<br><ul class=\"bb_ul\"><li>4 Seasons' worth of content instantly unlocked: Battle on 17+ maps, wield over 35 weapons, deploy as 14 Specialists<br></li><li>\u201cLost World\u201d Epic Cosmetic Bundle* containing:<br><ul class=\"bb_ul\"><li>Epic \u201cForsaken\u201d Rao Specialist Set<br></li><li>Epic \u201cStarved Vulture\u201d Vehicle Skin<br></li><li>Epic \u201cBanisher\u201d Weapon Skin</li></ul></li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/Steam_BF2042_S5_Year2_Beautyshot.png?t=1690979223\" /><br><br>This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items.</p><br><h1>About the Game</h1><h2 class=\"bb_tag\">WELCOME TO 2042</h2>Battlefield\u2122 2042 is a first-person shooter that marks the return to the iconic all-out warfare of the franchise. Utilize a cutting-edge arsenal in immersive multiplayer battles on maps set in both open battlegrounds and close-quarters maps. Choose your class, rally your squad, and fight through the world of 2042 as well as Battlefield's past.<h2 class=\"bb_tag\">ALL-OUT WARFARE</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/EA_BF42_STEAM_PC_01_EN.gif?t=1690979223\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/EA_BF42_STEAM_PC_02_EN.gif?t=1690979223\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/EA_BF42_STEAM_PC_03_EN.gif?t=1690979223\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/EA_BF42_STEAM_PC_04_EN.gif?t=1690979223\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/EA_BF42_STEAM_PC_05_EN.jpg?t=1690979223\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/EA_BF42_STEAM_PC_06_EN.jpg?t=1690979223\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/EA_BF42_STEAM_PC_07_EN.gif?t=1690979223\" />",
+            "about_the_game": "<h2 class=\"bb_tag\">WELCOME TO 2042</h2>Battlefield\u2122 2042 is a first-person shooter that marks the return to the iconic all-out warfare of the franchise. Utilize a cutting-edge arsenal in immersive multiplayer battles on maps set in both open battlegrounds and close-quarters maps. Choose your class, rally your squad, and fight through the world of 2042 as well as Battlefield's past.<h2 class=\"bb_tag\">ALL-OUT WARFARE</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/EA_BF42_STEAM_PC_01_EN.gif?t=1690979223\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/EA_BF42_STEAM_PC_02_EN.gif?t=1690979223\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/EA_BF42_STEAM_PC_03_EN.gif?t=1690979223\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/EA_BF42_STEAM_PC_04_EN.gif?t=1690979223\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/EA_BF42_STEAM_PC_05_EN.jpg?t=1690979223\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/EA_BF42_STEAM_PC_06_EN.jpg?t=1690979223\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1517290/extras/EA_BF42_STEAM_PC_07_EN.gif?t=1690979223\" />",
+            "short_description": "Never back down in Season 5: New Dawn. Battlefield\u2122 2042 is a first-person shooter that marks the return to the iconic all-out warfare of the franchise.",
+            "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Japanese<strong>*</strong>, Korean, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/header.jpg?t=1690979223",
+            "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/capsule_231x87.jpg?t=1690979223",
+            "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/capsule_184x69.jpg?t=1690979223",
+            "website": "https://www.ea.com/games/battlefield/battlefield-2042/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>Processor:</strong> AMD Ryzen 5 1600, Core i5 6600K<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon RX 560,Nvidia GeForce GTX 1050 Ti<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 100 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>Processor:</strong> AMD Ryzen 7 2700X, Intel Core i7 4790<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon RX 6600 XT, Nvidia GeForce RTX 3060<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 100 GB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "legal_notice": "CONDITIONS AND RESTRICTIONS APPLY. SEE https://www.ea.com/games/battlefield/battlefield-2042/disclaimers FOR DETAILS. NO WEAPON, MILITARY VEHICLE OR GEAR MANUFACTURER IS AFFILIATED WITH OR HAS SPONSORED OR ENDORSED THIS GAME.",
+            "drm_notice": "EA online activation and EA app software installation and background use required.",
+            "ext_user_account_notice": "EA Account ",
+            "developers": [
+                "DICE"
+            ],
+            "publishers": [
+                "Electronic Arts"
+            ],
+            "price_overview": {
+                "currency": "CAD",
+                "initial": 7999,
+                "final": 7999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "CDN$ 79.99"
+            },
+            "packages": [
+                534836,
+                865444
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Battlefield\u2122 2042",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 534836,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Battlefield\u2122 2042 - CDN$ 79.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 7999
+                        },
+                        {
+                            "packageid": 865444,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Battlefield\u2122 2042 Elite Edition - CDN$ 114.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 11499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
+                    "id": 36,
+                    "description": "Online PvP"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 35,
+                    "description": "In-App Purchases"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_01837d07d7c85ddc5eeee62053e392e649fcfacb.600x338.jpg?t=1690979223",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_01837d07d7c85ddc5eeee62053e392e649fcfacb.1920x1080.jpg?t=1690979223"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_235a1ad9748b981f6ccf4bc4a1965092f6949b2e.600x338.jpg?t=1690979223",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_235a1ad9748b981f6ccf4bc4a1965092f6949b2e.1920x1080.jpg?t=1690979223"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_fa156101353c89292e513b5a3564db10a9f605ac.600x338.jpg?t=1690979223",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_fa156101353c89292e513b5a3564db10a9f605ac.1920x1080.jpg?t=1690979223"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_f9fdfccd0f5a43ce54e9b724977d74eb450b3afe.600x338.jpg?t=1690979223",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_f9fdfccd0f5a43ce54e9b724977d74eb450b3afe.1920x1080.jpg?t=1690979223"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_83edfb71aa2629a7668db7a1616f72709a015667.600x338.jpg?t=1690979223",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_83edfb71aa2629a7668db7a1616f72709a015667.1920x1080.jpg?t=1690979223"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_b55c160f7c4fc1984818d41d47c4a5495917a8ac.600x338.jpg?t=1690979223",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_b55c160f7c4fc1984818d41d47c4a5495917a8ac.1920x1080.jpg?t=1690979223"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_e99b421b095cbabe619422a184ab5f75438627f1.600x338.jpg?t=1690979223",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_e99b421b095cbabe619422a184ab5f75438627f1.1920x1080.jpg?t=1690979223"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_5c7a9589bc79257ec83e73d98d416fb4070ecd2e.600x338.jpg?t=1690979223",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_5c7a9589bc79257ec83e73d98d416fb4070ecd2e.1920x1080.jpg?t=1690979223"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_0e5abae459b7e2995b4b6bd7a77fb6dfdc62f330.600x338.jpg?t=1690979223",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/ss_0e5abae459b7e2995b4b6bd7a77fb6dfdc62f330.1920x1080.jpg?t=1690979223"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256951317,
+                    "name": "Battlefield 2042 | Season 5: Map Flythrough Trailer",
+                    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256951317/movie.293x165.jpg?t=1686130077",
+                    "webm": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256951317/movie480_vp9.webm?t=1686130077",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256951317/movie_max_vp9.webm?t=1686130077"
+                    },
+                    "mp4": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256951317/movie480.mp4?t=1686130077",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256951317/movie_max.mp4?t=1686130077"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256950627,
+                    "name": "Battlefield 2042 | Season 5: New Dawn Gameplay Trailer",
+                    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256950627/movie.293x165.jpg?t=1685770242",
+                    "webm": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256950627/movie480_vp9.webm?t=1685770242",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256950627/movie_max_vp9.webm?t=1685770242"
+                    },
+                    "mp4": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256950627/movie480.mp4?t=1685770242",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256950627/movie_max.mp4?t=1685770242"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256865281,
+                    "name": "Accolades Trailer",
+                    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256865281/movie.293x165.jpg?t=1639657415",
+                    "webm": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256865281/movie480_vp9.webm?t=1639657415",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256865281/movie_max_vp9.webm?t=1639657415"
+                    },
+                    "mp4": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256865281/movie480.mp4?t=1639657415",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256865281/movie_max.mp4?t=1639657415"
+                    },
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 152753
+            },
+            "achievements": {
+                "total": 34,
+                "highlighted": [
+                    {
+                        "name": "Adapt and Overcome",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1517290/208c265b50ca2bb733e58b91f761d32f2fc379e1.jpg"
+                    },
+                    {
+                        "name": "Making Dunn Proud",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1517290/8176fac5b8d5db12de6a5fb23dcaabac758b2d4c.jpg"
+                    },
+                    {
+                        "name": "Luck of the Irish",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1517290/c162babd7944d92b7ba76fea6ad2f1567fc86fbc.jpg"
+                    },
+                    {
+                        "name": "Dead in their tracks!",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1517290/cc307cd07f0aafc7a623c89281903524618584e0.jpg"
+                    },
+                    {
+                        "name": "Command and Conquest ",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1517290/78de3d8d9be0a58132c51fbaa05f16c6c54a4f37.jpg"
+                    },
+                    {
+                        "name": "Escape Artist",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1517290/d9810770af08c694819c4d68a0b137b95f3c82f3.jpg"
+                    },
+                    {
+                        "name": "Pack Rat",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1517290/ba557d9b10f5eee3fef732fbd46a26a8d2615320.jpg"
+                    },
+                    {
+                        "name": "The Winner Takes It All",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1517290/6e970981c51dd3005f9d87a07efa7ca013d758fe.jpg"
+                    },
+                    {
+                        "name": "Universal Soldier",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1517290/d47436e1c727248f7f3bdf7417492147d67b4541.jpg"
+                    },
+                    {
+                        "name": "Gun Master",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1517290/1d2637aeda45282821f21102fdfd3407e7a8c126.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "19 Nov, 2021"
+            },
+            "support_info": {
+                "url": "https://help.ea.com/",
+                "email": ""
+            },
+            "background": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/page_bg_generated_v6b.jpg?t=1690979223",
+            "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/page_bg_generated.jpg?t=1690979223",
+            "content_descriptors": {
+                "ids": [
+                    2,
+                    5
+                ],
+                "notes": null
+            }
+        }
+    }
+}

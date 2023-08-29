@@ -1,0 +1,302 @@
+{
+    "221100": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "DayZ",
+            "steam_appid": 221100,
+            "required_age": "18",
+            "is_free": false,
+            "dlc": [
+                1151700
+            ],
+            "detailed_description": "<h1>Join our Discord</h1><p><a href=\"https://steamcommunity.com/linkfilter/?url=https://discord.com/invite/e3fXfXZ\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/221100/extras/DayZ_Steam_Store_Discord_Banner_600x100.jpg?t=1674143992\" /></a></p><br><h1>About the Game</h1><h2 class=\"bb_tag\">This is your Story</h2><br>There are no map markers, daily quests, or scoreboards to help you create your story. There is only Chernarus \u2013 230 square kilometers of post-Soviet country that was struck by an unknown virus, which turned the majority of its population into raging infected.<br><br>Your task? To survive the collapse of civilization for as long as you possibly can. Keep in mind that death is permanent in unforgiving Chernarus. All you\u2019ll have when you start over again are the memories of your final mistake.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/221100/extras/infectedv2.gif?t=1674143992\" /><h2 class=\"bb_tag\">Meet Others</h2><br>Up to 60 players are struggling to survive by any means necessary at any given time. Make friends, kill on sight, build a base, or risk being betrayed over a can of tasty beans. Use VOIP to interact with other players however you see fit. Every encounter is meaningful when your life is always on the line. Be wary. Stay alert. Trust no one.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/221100/extras/meetothers.gif?t=1674143992\" /><h2 class=\"bb_tag\">Survive Chernarus</h2><br>The infected aren\u2019t the only ones you need to worry about \u2013 there\u2019s also the wildlife and elements. Evade packs of wolves and frenzied bears, find shelter from the punishing rain, search for light in the darkness of night. You\u2019ll also need to master complex survival mechanics concerning your hunger, thirst, body temperature, and more.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/221100/extras/survive+navigation_v2.gif?t=1674143992\" /><h2 class=\"bb_tag\">Loot Up</h2><br>Always make sure your gear is ready. Patch up damaged clothes, craft improvised items, and head out to deceptively dead cities to scavenge for valuable resources. Fix a car and hide it in your secret base under a cover of well-placed traps. Step into contaminated zones if you dare and keep your eyes peeled for precious loot. Don\u2019t forget that you won\u2019t get far without a full hazard suit and gas mask.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/221100/extras/contaminated.gif?t=1674143992\" /><h2 class=\"bb_tag\">Take your Shot</h2><br>Intense PvP action can break out anywhere at any time, especially in hotspots like abandoned military bases, where heart-pounding firefights are all the rage. Some survivors want your loot, others are simply hunting for sport. Then there are those who are afraid you\u2019ll shoot first. Learn how to fight and know when the time has come to swallow your pride and flee. One bullet can change absolutely everything. Always watch your back.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/221100/extras/takeyourshotv2.gif?t=1674143992\" /><h2 class=\"bb_tag\">Install Mods</h2><br>Head on over to the Steam Workshop and find a customized server that fits. Join an active community of like-minded players and modify your DayZ experience to suit your taste. Browse thousands of fan-made features, maps, and guns \u2013 all of which are easily managed directly from the game launcher.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/221100/extras/basebuilding+crafting.gif?t=1674143992\" />",
+            "about_the_game": "<h2 class=\"bb_tag\">This is your Story</h2><br>There are no map markers, daily quests, or scoreboards to help you create your story. There is only Chernarus \u2013 230 square kilometers of post-Soviet country that was struck by an unknown virus, which turned the majority of its population into raging infected.<br><br>Your task? To survive the collapse of civilization for as long as you possibly can. Keep in mind that death is permanent in unforgiving Chernarus. All you\u2019ll have when you start over again are the memories of your final mistake.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/221100/extras/infectedv2.gif?t=1674143992\" /><h2 class=\"bb_tag\">Meet Others</h2><br>Up to 60 players are struggling to survive by any means necessary at any given time. Make friends, kill on sight, build a base, or risk being betrayed over a can of tasty beans. Use VOIP to interact with other players however you see fit. Every encounter is meaningful when your life is always on the line. Be wary. Stay alert. Trust no one.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/221100/extras/meetothers.gif?t=1674143992\" /><h2 class=\"bb_tag\">Survive Chernarus</h2><br>The infected aren\u2019t the only ones you need to worry about \u2013 there\u2019s also the wildlife and elements. Evade packs of wolves and frenzied bears, find shelter from the punishing rain, search for light in the darkness of night. You\u2019ll also need to master complex survival mechanics concerning your hunger, thirst, body temperature, and more.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/221100/extras/survive+navigation_v2.gif?t=1674143992\" /><h2 class=\"bb_tag\">Loot Up</h2><br>Always make sure your gear is ready. Patch up damaged clothes, craft improvised items, and head out to deceptively dead cities to scavenge for valuable resources. Fix a car and hide it in your secret base under a cover of well-placed traps. Step into contaminated zones if you dare and keep your eyes peeled for precious loot. Don\u2019t forget that you won\u2019t get far without a full hazard suit and gas mask.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/221100/extras/contaminated.gif?t=1674143992\" /><h2 class=\"bb_tag\">Take your Shot</h2><br>Intense PvP action can break out anywhere at any time, especially in hotspots like abandoned military bases, where heart-pounding firefights are all the rage. Some survivors want your loot, others are simply hunting for sport. Then there are those who are afraid you\u2019ll shoot first. Learn how to fight and know when the time has come to swallow your pride and flee. One bullet can change absolutely everything. Always watch your back.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/221100/extras/takeyourshotv2.gif?t=1674143992\" /><h2 class=\"bb_tag\">Install Mods</h2><br>Head on over to the Steam Workshop and find a customized server that fits. Join an active community of like-minded players and modify your DayZ experience to suit your taste. Browse thousands of fan-made features, maps, and guns \u2013 all of which are easily managed directly from the game launcher.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/221100/extras/basebuilding+crafting.gif?t=1674143992\" />",
+            "short_description": "How long can you survive a post-apocalyptic world? A land overrun with an infected &quot;zombie&quot; population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ \u2013 this is your story.",
+            "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Russian, Simplified Chinese, Traditional Chinese, Japanese, Polish, Portuguese - Brazil",
+            "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/221100/header.jpg?t=1674143992",
+            "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/221100/capsule_231x87.jpg?t=1674143992",
+            "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/221100/capsule_184x69.jpg?t=1674143992",
+            "website": "https://www.dayz.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8.1 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-4430<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 760 or AMD R9 270X<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 25 GB available space<br></li><li><strong>Sound Card:</strong> DirectX\u00ae-compatible<br></li><li><strong>Additional Notes:</strong> Internet connection</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-6600K or AMD R5 1600X<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 or AMD RX 580<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 30 GB available space<br></li><li><strong>Sound Card:</strong> DirectX\u00ae-compatible<br></li><li><strong>Additional Notes:</strong> Internet connection</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "Copyright \u00a9 2021 BOHEMIA INTERACTIVE a.s. All Rights Reserved. DAYZ\u00ae and BOHEMIA INTERACTIVE\u00ae are registered trade marks of BOHEMIA INTERACTIVE a.s.<br />\r\n<br />\r\nThis software product includes BattlEye\u2122 anti-cheat technology \u00a9 2021 BattlEye Innovations e.K.. All rights reserved.",
+            "developers": [
+                "Bohemia Interactive"
+            ],
+            "publishers": [
+                "Bohemia Interactive"
+            ],
+            "price_overview": {
+                "currency": "KRW",
+                "initial": 4990000,
+                "final": 4990000,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "\u20a9 49,900"
+            },
+            "packages": [
+                35220
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy DayZ",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 35220,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "DayZ - \u20a9 49,900",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 4990000
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 20,
+                    "description": "MMO"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
+                    "id": 36,
+                    "description": "Online PvP"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 30,
+                    "description": "Steam Workshop"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 8,
+                    "description": "Valve Anti-Cheat enabled"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "29",
+                    "description": "Massively Multiplayer"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_7f488d8e49682a8d1643a795fc9047cbbd2dcc9c.600x338.jpg?t=1674143992",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_7f488d8e49682a8d1643a795fc9047cbbd2dcc9c.1920x1080.jpg?t=1674143992"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_0de6d2e7f3b5348d69bb09d60624c78e13f0c8d7.600x338.jpg?t=1674143992",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_0de6d2e7f3b5348d69bb09d60624c78e13f0c8d7.1920x1080.jpg?t=1674143992"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_84b557abccd29273cf9313980b4c9f63a12dabdf.600x338.jpg?t=1674143992",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_84b557abccd29273cf9313980b4c9f63a12dabdf.1920x1080.jpg?t=1674143992"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_2c77af2ce801e986c77f2af2f0918ad3e47b17df.600x338.jpg?t=1674143992",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_2c77af2ce801e986c77f2af2f0918ad3e47b17df.1920x1080.jpg?t=1674143992"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_7892d0526421d31a3d1eebb6cf919118fcfb2ca5.600x338.jpg?t=1674143992",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_7892d0526421d31a3d1eebb6cf919118fcfb2ca5.1920x1080.jpg?t=1674143992"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_38bc8749f418717a6419a5eaec19cf26a7faae27.600x338.jpg?t=1674143992",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_38bc8749f418717a6419a5eaec19cf26a7faae27.1920x1080.jpg?t=1674143992"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_de716ef45826665559b5fef34391d5ef0e00452a.600x338.jpg?t=1674143992",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_de716ef45826665559b5fef34391d5ef0e00452a.1920x1080.jpg?t=1674143992"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_ddf128da4de70b752436b69642a64a4caacafe56.600x338.jpg?t=1674143992",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_ddf128da4de70b752436b69642a64a4caacafe56.1920x1080.jpg?t=1674143992"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_447d71a5e1fcf99330d490625301a608f1b2bc48.600x338.jpg?t=1674143992",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_447d71a5e1fcf99330d490625301a608f1b2bc48.1920x1080.jpg?t=1674143992"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_9b90a46d88d1ed9320f00a7bc1aa26c3e0581944.600x338.jpg?t=1674143992",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_9b90a46d88d1ed9320f00a7bc1aa26c3e0581944.1920x1080.jpg?t=1674143992"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_33c1b36c2e1eaabab48e4675cde5c7a962d4d785.600x338.jpg?t=1674143992",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_33c1b36c2e1eaabab48e4675cde5c7a962d4d785.1920x1080.jpg?t=1674143992"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_430bbdb8fa1d226d9522f02d031002427cf1b444.600x338.jpg?t=1674143992",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/221100/ss_430bbdb8fa1d226d9522f02d031002427cf1b444.1920x1080.jpg?t=1674143992"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256790906,
+                    "name": "DayZ Final Trailer ESRB",
+                    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256790906/movie.293x165.jpg?t=1593118262",
+                    "webm": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256790906/movie480_vp9.webm?t=1593118262",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256790906/movie_max_vp9.webm?t=1593118262"
+                    },
+                    "mp4": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256790906/movie480.mp4?t=1593118262",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256790906/movie_max.mp4?t=1593118262"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256754405,
+                    "name": "DayZ Gameplay Trailer",
+                    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256754405/movie.293x165.jpg?t=1577825105",
+                    "webm": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256754405/movie480.webm?t=1577825105",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256754405/movie_max.webm?t=1577825105"
+                    },
+                    "mp4": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256754405/movie480.mp4?t=1577825105",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256754405/movie_max.mp4?t=1577825105"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256734797,
+                    "name": "DayZ Beta Launch Trailer",
+                    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256734797/movie.293x165.jpg?t=1577825130",
+                    "webm": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256734797/movie480.webm?t=1577825130",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256734797/movie_max.webm?t=1577825130"
+                    },
+                    "mp4": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256734797/movie480.mp4?t=1577825130",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256734797/movie_max.mp4?t=1577825130"
+                    },
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 295987
+            },
+            "achievements": {
+                "total": 13,
+                "highlighted": [
+                    {
+                        "name": "Bodily Needs",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221100/421a04478fea3e23e31bf6eaf6ab013548c421ab.jpg"
+                    },
+                    {
+                        "name": "Geared",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221100/5774c79f9791165844b3b301dc6101864373305b.jpg"
+                    },
+                    {
+                        "name": "Act of mercy",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221100/6e6f90964daf90b48be3c3bcb9ab0dfb3043c012.jpg"
+                    },
+                    {
+                        "name": "Field cook",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221100/2fc0c1726b1e125139e52d1785623686d8171c43.jpg"
+                    },
+                    {
+                        "name": "I'm the firestarter",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221100/01b253f506175f7385acb54263c8e29463c0dffe.jpg"
+                    },
+                    {
+                        "name": "Babyface",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221100/51c1bad3aebace0c26b18cb24ec11f9c0ee913a5.jpg"
+                    },
+                    {
+                        "name": "Natural instincts",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221100/3d5b450d9fffdf38100c8db557a9dd33661b9841.jpg"
+                    },
+                    {
+                        "name": "Marksman",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221100/d0850331ea7745c163e8fbd381077a8600e730ac.jpg"
+                    },
+                    {
+                        "name": "Pacify",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221100/c5566ebbaa445b473e555fecb77e6fe8e3318b2b.jpg"
+                    },
+                    {
+                        "name": "Heal the world",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221100/73251bf5eb582d49e288c53c340ed9a2f5283275.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "13 Dec, 2018"
+            },
+            "support_info": {
+                "url": "https://forums.dayz.com/",
+                "email": "support@bohemia.net"
+            },
+            "background": "https://cdn.akamai.steamstatic.com/steam/apps/221100/page_bg_generated_v6b.jpg?t=1674143992",
+            "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/221100/page.bg.jpg?t=1674143992",
+            "content_descriptors": {
+                "ids": [
+                    2,
+                    5
+                ],
+                "notes": "This game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content\r\n\r\nDayZ is a multiplayer-focused sandbox game. Other players might behave unpredictably and impact the game experience significantly. Voice chat and text chat can be disabled from the in-game options menu."
+            }
+        }
+    }
+}

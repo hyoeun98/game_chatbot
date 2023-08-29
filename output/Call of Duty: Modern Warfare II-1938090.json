@@ -1,0 +1,363 @@
+{
+    "1938090": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Call of Duty\u00ae",
+            "steam_appid": 1938090,
+            "required_age": "18",
+            "is_free": false,
+            "controller_support": "full",
+            "dlc": [
+                2451950,
+                2053671,
+                2127790,
+                2127791,
+                2137910,
+                2139260,
+                2139261,
+                2139262,
+                2139263,
+                2139264,
+                2139265,
+                2139266,
+                2139267,
+                2139268,
+                2139269,
+                2139270,
+                2139271,
+                2139272,
+                2170970,
+                2278280,
+                2316850,
+                2332010,
+                2332011,
+                2332012,
+                2332013,
+                2332014,
+                2332015,
+                2332016,
+                2332017,
+                2332018,
+                2332019,
+                2332020,
+                2332021,
+                2354080,
+                2387940,
+                2396490,
+                2433000,
+                2459970,
+                2519060
+            ],
+            "detailed_description": "Call of Duty\u00ae HQ supports Call of Duty\u00ae: Modern Warfare\u00ae III, Call of Duty\u00ae: Modern Warfare\u00ae II and Call of Duty\u00ae: Warzone\u2122.<br />\r\n<br />\r\nCall of Duty\u00ae: Modern Warfare\u00ae III is the direct sequel to the record-breaking Call of Duty\u00ae: Modern Warfare\u00ae II. Captain Price and Task Force 141 face off against the ultimate threat. The ultranationalist war criminal Vladimir Makarov is extending his grasp across the world causing Task Force 141 to fight like never before.<br />\r\n<br />\r\nCall of Duty\u00ae: Modern Warfare\u00ae II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141.<br />\r\n<br />\r\nCall of Duty\u00ae: Warzone\u2122 is the massive free-to-play combat arena which features Battle Royales, Resurgence and DMZ.<br />\r\n<br />\r\nCall of Duty\u00ae Points (CP) are the in-game currency that can be used in Call of Duty\u00ae: Modern Warfare\u00ae III, Modern Warfare\u00ae II, and Warzone\u2122 to obtain new content. Call of Duty\u00ae: Modern Warfare\u00ae III / Call of Duty\u00ae: Modern Warfare\u00ae II / Call of Duty\u00ae: Warzone\u2122 game required, sold / downloaded separately.<br />\r\n<br />\r\nCP purchased may also be used to obtain in-game content in certain Call of Duty\u00ae games with CP functionality enabled*. Each game sold separately.",
+            "about_the_game": "Call of Duty\u00ae HQ supports Call of Duty\u00ae: Modern Warfare\u00ae III, Call of Duty\u00ae: Modern Warfare\u00ae II and Call of Duty\u00ae: Warzone\u2122.<br />\r\n<br />\r\nCall of Duty\u00ae: Modern Warfare\u00ae III is the direct sequel to the record-breaking Call of Duty\u00ae: Modern Warfare\u00ae II. Captain Price and Task Force 141 face off against the ultimate threat. The ultranationalist war criminal Vladimir Makarov is extending his grasp across the world causing Task Force 141 to fight like never before.<br />\r\n<br />\r\nCall of Duty\u00ae: Modern Warfare\u00ae II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141.<br />\r\n<br />\r\nCall of Duty\u00ae: Warzone\u2122 is the massive free-to-play combat arena which features Battle Royales, Resurgence and DMZ.<br />\r\n<br />\r\nCall of Duty\u00ae Points (CP) are the in-game currency that can be used in Call of Duty\u00ae: Modern Warfare\u00ae III, Modern Warfare\u00ae II, and Warzone\u2122 to obtain new content. Call of Duty\u00ae: Modern Warfare\u00ae III / Call of Duty\u00ae: Modern Warfare\u00ae II / Call of Duty\u00ae: Warzone\u2122 game required, sold / downloaded separately.<br />\r\n<br />\r\nCP purchased may also be used to obtain in-game content in certain Call of Duty\u00ae games with CP functionality enabled*. Each game sold separately.",
+            "short_description": "Welcome to Call of Duty\u00ae HQ, the home of Call of Duty\u00ae: Modern Warfare\u00ae III, Call of Duty\u00ae: Modern Warfare\u00ae II and Warzone\u2122.",
+            "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese, Japanese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Arabic, Simplified Chinese, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/header.jpg?t=1692824991",
+            "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/capsule_231x87.jpg?t=1692824991",
+            "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/capsule_184x69.jpg?t=1692824991",
+            "website": "https://www.callofduty.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows\u00ae 10 64 Bit (latest update)<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i3-6100 / Core\u2122 i5-2500K or AMD Ryzen\u2122 3 1200<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae GTX 960 or AMD Radeon\u2122 RX 470 - DirectX 12.0 compatible system<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 125 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows\u00ae 10 64 Bit (latest update) or Windows\u00ae 11 64 Bit (latest update)<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5-6600K / Core\u2122 i7-4770 or AMD Ryzen\u2122 5 1400<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae GTX 1060 or AMD Radeon\u2122 RX 580 - DirectX 12.0 compatible system or Intel\u00ae Arc\u2122 A770<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 125 GB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "legal_notice": "A mobile phone number must be linked to your Steam Account to play Modern Warfare\u00ae II.<br />\r\n<br />\r\n*Use of CP is not available in all Call of Duty\u00ae games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available. Call of Duty\u00ae: Modern Warfare\u00ae III, Call of Duty\u00ae: Modern Warfare\u00ae II, or Call of Duty\u00ae: Warzone\u2122 must be launched and CP registered in-game before these CP will appear in other Call of Duty\u00ae games.<br />\r\n<br />\r\nFor more information, please visit www.callofduty.com.<br />\r\n<br />\r\n\u00a9 2022-2023 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, MODERN WARFARE and CALL OF DUTY WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners. This product contains software technology licensed from Id Software ('Id Technology'). Id Technology \u00a9 1999-2023 Id Software, Inc.",
+            "ext_user_account_notice": "Activision Account ",
+            "developers": [
+                "Infinity Ward",
+                "Raven Software",
+                "Beenox",
+                "Treyarch",
+                "High Moon Studios",
+                "Sledgehammer Games",
+                "Activision Shanghai",
+                "Demonware",
+                "Toys for Bob"
+            ],
+            "publishers": [
+                "Activision"
+            ],
+            "packages": [
+                777136,
+                777139,
+                777142,
+                777145,
+                777148,
+                777151,
+                777154,
+                777157,
+                777157
+            ],
+            "package_groups": [
+                {
+                    "name": "CoDPoints",
+                    "title": "Buy Call of Duty\u00ae Points",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": "1",
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 777136,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "200 CP - CDN$ 2.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        },
+                        {
+                            "packageid": 777139,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "500 CP - CDN$ 6.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 699
+                        },
+                        {
+                            "packageid": 777142,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "1,000 (+100 Bonus) CP - CDN$ 13.49",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1349
+                        },
+                        {
+                            "packageid": 777145,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "2,000 (+400 Bonus) CP - CDN$ 26.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2699
+                        },
+                        {
+                            "packageid": 777148,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "4,000 (+1,000 Bonus) CP - CDN$ 53.49",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 5349
+                        },
+                        {
+                            "packageid": 777151,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "7,500 (+2,000 Bonus) CP - CDN$ 99.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 9999
+                        },
+                        {
+                            "packageid": 777154,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "10,000 (+3,000 Bonus) CP - CDN$ 133.49",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 13349
+                        },
+                        {
+                            "packageid": 777157,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "15,000 (+6,000 Bonus) CP - CDN$ 199.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 19999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
+                    "id": 36,
+                    "description": "Online PvP"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                },
+                {
+                    "id": 35,
+                    "description": "In-App Purchases"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_a862555fbd978367249e514c3419394a4eee7743.600x338.jpg?t=1692824991",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_a862555fbd978367249e514c3419394a4eee7743.1920x1080.jpg?t=1692824991"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_fa41ab38ffa2f27ba6f755b9503126879ad22d7d.600x338.jpg?t=1692824991",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_fa41ab38ffa2f27ba6f755b9503126879ad22d7d.1920x1080.jpg?t=1692824991"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_fe25f7cce00d0a1e0824269eb338ab05e154bc12.600x338.jpg?t=1692824991",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_fe25f7cce00d0a1e0824269eb338ab05e154bc12.1920x1080.jpg?t=1692824991"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_ddd699526ce54aa7bf0fb434df37d03bb6072c02.600x338.jpg?t=1692824991",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_ddd699526ce54aa7bf0fb434df37d03bb6072c02.1920x1080.jpg?t=1692824991"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_81e58cb7ed804d13eab05845c48c45d2cf5cd6b0.600x338.jpg?t=1692824991",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_81e58cb7ed804d13eab05845c48c45d2cf5cd6b0.1920x1080.jpg?t=1692824991"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_d9303f8e6db201ef1554bde3b59b37b9dbc95569.600x338.jpg?t=1692824991",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_d9303f8e6db201ef1554bde3b59b37b9dbc95569.1920x1080.jpg?t=1692824991"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_cee538bc3e9ccc6fb108ab297d0fa76d82f23307.600x338.jpg?t=1692824991",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_cee538bc3e9ccc6fb108ab297d0fa76d82f23307.1920x1080.jpg?t=1692824991"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_ce493075e4154a65354993cd9faac62a7de7563b.600x338.jpg?t=1692824991",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_ce493075e4154a65354993cd9faac62a7de7563b.1920x1080.jpg?t=1692824991"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_e563e80ee36e0434302515326fcd26e3c16ce8dd.600x338.jpg?t=1692824991",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/ss_e563e80ee36e0434302515326fcd26e3c16ce8dd.1920x1080.jpg?t=1692824991"
+                }
+            ],
+            "recommendations": {
+                "total": 238678
+            },
+            "achievements": {
+                "total": 24,
+                "highlighted": [
+                    {
+                        "name": "A Crappy Way to Die",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1938090/923b117e27557ba4a6e37cdf182b8e2a200f7484.jpg"
+                    },
+                    {
+                        "name": "Backpack Guy",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1938090/b41e0527948bcb3d44b9c72a4dfa35ed1f6b9420.jpg"
+                    },
+                    {
+                        "name": "Crocodile",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1938090/ae252112faaf25d9b75d575cb43f12b232e60452.jpg"
+                    },
+                    {
+                        "name": "Daredevil",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1938090/f149b3c67f7ed63b9c4d2ca504b18d1eed4fd884.jpg"
+                    },
+                    {
+                        "name": "Gentleman Thief",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1938090/7ae9786715f6e8aef700628aac9e220d520acccc.jpg"
+                    },
+                    {
+                        "name": "Ghost-in-Training",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1938090/a5e5e4a5fcd8dff2051bb97c6cf42ed8146c1939.jpg"
+                    },
+                    {
+                        "name": "Must be Wind",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1938090/c6a82c9a16bf25420bb71b583b1f9aa1f3c5a3a5.jpg"
+                    },
+                    {
+                        "name": "Nessie",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1938090/58849c7c913fcb5efa555838536d7dbbc81c38c7.jpg"
+                    },
+                    {
+                        "name": "Nobody was There",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1938090/24d816bf26e464c00721dca9e0046ed36c8ed04a.jpg"
+                    },
+                    {
+                        "name": "Gunless",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1938090/f3a0c4fb2fa16bec636505cea9a923958e84f067.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "27 Oct, 2022"
+            },
+            "support_info": {
+                "url": "https://support.activision.com/",
+                "email": ""
+            },
+            "background": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/page_bg_generated_v6b.jpg?t=1692824991",
+            "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/page_bg_generated.jpg?t=1692824991",
+            "content_descriptors": {
+                "ids": [
+                    2,
+                    5
+                ],
+                "notes": null
+            }
+        }
+    }
+}

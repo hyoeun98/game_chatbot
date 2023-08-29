@@ -1,0 +1,237 @@
+{
+    "1172470": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Apex Legends\u2122",
+            "steam_appid": 1172470,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame &amp; fortune on the fringes of the Frontier.<br><br>Master an ever-growing roster of diverse Legends, deep-tactical squad play, and bold, new innovations that go beyond the Battle Royale experience \u2014 all within a rugged world where anything goes. Welcome to the next evolution of Hero Shooter.<br><br><strong>KEY FEATURES</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1172470/extras/EA_APEX_STEAM-PDP_EN.jpg?t=1692901064\" /><br><br>This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.<br><br>Note that any unused Apex Coins will expire 180 days after the first date in which they are acquired or purchased. The oldest Apex Coins that are subject to expiration in your balance will always be used first when using them to make in-game purchases.<br><br>Apex Packs purchase is not available in Belgium.",
+            "about_the_game": "Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame &amp; fortune on the fringes of the Frontier.<br><br>Master an ever-growing roster of diverse Legends, deep-tactical squad play, and bold, new innovations that go beyond the Battle Royale experience \u2014 all within a rugged world where anything goes. Welcome to the next evolution of Hero Shooter.<br><br><strong>KEY FEATURES</strong><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1172470/extras/EA_APEX_STEAM-PDP_EN.jpg?t=1692901064\" /><br><br>This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.<br><br>Note that any unused Apex Coins will expire 180 days after the first date in which they are acquired or purchased. The oldest Apex Coins that are subject to expiration in your balance will always be used first when using them to make in-game purchases.<br><br>Apex Packs purchase is not available in Belgium.",
+            "short_description": "Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.",
+            "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese, Spanish - Latin America, Arabic<br><strong>*</strong>languages with full audio support",
+            "reviews": "\u201cThe champion of Battle Royales.\u201d<br>9/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.gamespot.com/games/apex-legends/reviews/\" target=\"_blank\" rel=\" noopener\"  >GameSpot</a><br><br>\u201cThe best Battle Royale game.\u201d<br>5/5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.gamesradar.com/apex-legends-review/\" target=\"_blank\" rel=\" noopener\"  >GamesRadar+</a><br><br>\u201cFree, friendly, and consistently fun.  It's the best Battle Royale game available today.\u201d<br>93/100 \u2013 <a href=\"https://www.pcgamer.com/apex-legends-review/\" target=\"_blank\" rel=\"\"  >PC Gamer</a><br>",
+            "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/header.jpg?t=1692901064",
+            "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/capsule_231x87.jpg?t=1692901064",
+            "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/capsule_184x69.jpg?t=1692901064",
+            "website": "https://www.ea.com/games/apex-legends",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 7<br></li><li><strong>Processor:</strong> AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon\u2122 HD 7730, NVIDIA GeForce\u00ae GT 640<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 56 GB available space<br></li><li><strong>Additional Notes:</strong> ~3.8GB for 1 localized language</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 7<br></li><li><strong>Processor:</strong> Ryzen 5 CPU or Equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon\u2122 R9 290, NVIDIA GeForce\u00ae GTX 970<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 56 GB available space<br></li><li><strong>Additional Notes:</strong> ~3.8GB for 1 localized language</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "legal_notice": "Germany, Austria, and Switzerland only: EA\u2019S PRIVACY & COOKIE POLICY (privacy.ea.com/de) APPLIES. <br />\r\nOther EU, United Kingdom, Norway, Iceland, Andorra, Bosnia and Herzegovina, Georgia, Kosovo, Macedonia (FYROM), Moldova, Monaco, Montenegro, San Marino, Serbia, Turkey, Vatican City (Holy See), Liechtenstein only: ACKNOWLEDGEMENT OF EA's PRIVACY & COOKIE POLICY (privacy.ea.com) REQUIRED TO PLAY. <br />\r\nAll other residents: ACCEPTANCE OF EA PRIVACY & COOKIE POLICY (privacy.ea.com) REQUIRED TO PLAY. <br />\r\n<br />\r\nINTERNET CONNECTION; EA ACCOUNT; STEAM ACCOUNT; ACCEPTANCE OF EA USER AGREEMENT (terms.ea.com) REQUIRED TO PLAY. YOU MUST LINK YOUR EA AND STEAM ACCOUNTS TO PLAY; EA WILL SHARE YOUR ACCOUNT ID AND INDIVIDUAL GAME AND PLAY RECORDS WITH STEAM TO VALIDATE YOUR PURCHASE AND/OR REFUND REQUEST. ACCESS TO SOFTWARE CONTENT IS LIMITED TO ONE EA & ONE STEAM ACCOUNT & IS NON-TRANSFERABLE AFTER PURCHASE. YOU MAY NEED TO BE 13+ or 16+ TO REGISTER FOR AN EA ACCOUNT (AGE MAY VARY, SEE http://o.ea.com/ea/child-access FOR DETAILS). SOME CONTENT MAY REQUIRE GAMEPLAY TO UNLOCK. CONTENT UPDATES MAY BE DOWNLOADED AUTOMATICALLY, REQUIRE ADDITIONAL STORAGE, AND INCUR BANDWIDTH USAGE FEES. EA MAY PROVIDE CERTAIN FREE INCREMENTAL CONTENT &/OR UPDATES. EA MAY RETIRE ONLINE FEATURES AFTER 30 DAYS NOTICE POSTED ON ea.com/service-updates.<br />\r\n<br />\r\nEA User Agreement: terms.ea.com/de for German residents and terms.ea.com for all other residents<br />\r\nEA Privacy & Cookie Policy: privacy.ea.com/de for German residents and privacy.ea.com for all other residents",
+            "ext_user_account_notice": "EA Account (Supports Linking to Steam Account)",
+            "developers": [
+                "Respawn Entertainment"
+            ],
+            "publishers": [
+                "Electronic Arts"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "metacritic": {
+                "score": 88,
+                "url": "https://www.metacritic.com/game/pc/apex-legends?ftag=MCD-06-10aaa1f"
+            },
+            "categories": [
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
+                    "id": 36,
+                    "description": "Online PvP"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 35,
+                    "description": "In-App Purchases"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/ss_e7ba0c5706f1a96bd2936e51ae8a3efb05708d17.600x338.jpg?t=1692901064",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/ss_e7ba0c5706f1a96bd2936e51ae8a3efb05708d17.1920x1080.jpg?t=1692901064"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/ss_65269560b81241fd33c375672296bb80378e5caa.600x338.jpg?t=1692901064",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/ss_65269560b81241fd33c375672296bb80378e5caa.1920x1080.jpg?t=1692901064"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/ss_baffff3e89143c5ba609740d78db008507ef4702.600x338.jpg?t=1692901064",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/ss_baffff3e89143c5ba609740d78db008507ef4702.1920x1080.jpg?t=1692901064"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/ss_52d1b774ee7e451825448a12fd3227dd196d6c1f.600x338.jpg?t=1692901064",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/ss_52d1b774ee7e451825448a12fd3227dd196d6c1f.1920x1080.jpg?t=1692901064"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/ss_2180266a2e40d3024a83dc6f1851ec20d4c1725e.600x338.jpg?t=1692901064",
+                    "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/ss_2180266a2e40d3024a83dc6f1851ec20d4c1725e.1920x1080.jpg?t=1692901064"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256963031,
+                    "name": "Apex Legends: Resurrection Gameplay",
+                    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256963031/movie.293x165.jpg?t=1691718299",
+                    "webm": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256963031/movie480_vp9.webm?t=1691718299",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256963031/movie_max_vp9.webm?t=1691718299"
+                    },
+                    "mp4": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256963031/movie480.mp4?t=1691718299",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256963031/movie_max.mp4?t=1691718299"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256963034,
+                    "name": "Apex Legends: Resurrection Battle Pass Trailer",
+                    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256963034/movie.293x165.jpg?t=1691718304",
+                    "webm": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256963034/movie480_vp9.webm?t=1691718304",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256963034/movie_max_vp9.webm?t=1691718304"
+                    },
+                    "mp4": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256963034/movie480.mp4?t=1691718304",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256963034/movie_max.mp4?t=1691718304"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256963037,
+                    "name": "Apex Legends: Resurrection Launch Trailer | Kill Code - Part 2",
+                    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256963037/movie.293x165.jpg?t=1691718310",
+                    "webm": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256963037/movie480_vp9.webm?t=1691718310",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256963037/movie_max_vp9.webm?t=1691718310"
+                    },
+                    "mp4": {
+                        "480": "http://cdn.akamai.steamstatic.com/steam/apps/256963037/movie480.mp4?t=1691718310",
+                        "max": "http://cdn.akamai.steamstatic.com/steam/apps/256963037/movie_max.mp4?t=1691718310"
+                    },
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 1299
+            },
+            "achievements": {
+                "total": 12,
+                "highlighted": [
+                    {
+                        "name": "The Player",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/cde23ba5b41f315f5d399064ed0bb9ff51fc1342.jpg"
+                    },
+                    {
+                        "name": "Decked Out",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/dc4f9a6c122b4890a3852818cb14430a7ae692b9.jpg"
+                    },
+                    {
+                        "name": "Team Player",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/03754c9a8c98ec9362e245a8bd0e8cdbb2e22aea.jpg"
+                    },
+                    {
+                        "name": "Fully Kitted",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/8a11ed285547d9d5e04d3278c61255058da5cfce.jpg"
+                    },
+                    {
+                        "name": "Jumpmaster",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/2828944fd7bb6f31f3f26c957d2dd2aea1e5d3ab.jpg"
+                    },
+                    {
+                        "name": "Well-Rounded",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/6f44b7a073fb4fe324f9f12b527a910046f2809c.jpg"
+                    },
+                    {
+                        "name": "Kill Leader",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/88c298423ddcf009d522b6833086bb51f9ee4fe6.jpg"
+                    },
+                    {
+                        "name": "Apex Assault",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/65bc35fdbe07c89fe3e3b06ab3079e6fc143cc38.jpg"
+                    },
+                    {
+                        "name": "Apex Controller",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/31a63848bdf4ae32577c6d2bd35e4db6875033a0.jpg"
+                    },
+                    {
+                        "name": "Apex Support",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/527fbb4017b393f13d34bacb1fe58bcc616a1c27.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "Nov 4, 2020"
+            },
+            "support_info": {
+                "url": "https://help.ea.com/",
+                "email": ""
+            },
+            "background": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/page_bg_generated_v6b.jpg?t=1692901064",
+            "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/page_bg_generated.jpg?t=1692901064",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}
