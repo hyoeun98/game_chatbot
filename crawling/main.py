@@ -1,64 +1,51 @@
 import requests, json, os
 from loading import printProgressBar
+import concurrent.futures
 
 FOLDER_PATH = "output"
 
 if not os.path.exists(FOLDER_PATH):
 	os.makedirs(FOLDER_PATH)
 
-response = requests.get("https://steamspy.com/api.php?request=all&page=1%22")
-# {
-#   "applist": {
-#     "apps": [
-#       {"appid": 10, "name": "Counter-Strike"},
-#       {"appid": 20, "name": "Team Fortress Classic"},
-#       {"appid": 30, "name": "Day of Defeat"},
-#       {"appid": 40, "name": "Deathmatch Classic"}
-#     ]
-#   }
-# }
+def call_api(idx):
+	response = requests.get(f"https://steamspy.com/api.php?request=all&page={idx}")
 
-# {
-#   "10": {
-#     "success": true, 
-#     "data": {
-#       "type": "game",
-#       "name": "Counter-Strike",
-#       "steam_appid": 10,
-#       "required_age": 0,
-#       "is_free": false,
-#       "detailed_description": "...",
-#       "about_the_game": "...",
-#       "short_description": "...",
-#       "developers": ["Valve"],
-#       "publishers": ["Valve"],
-#       "EVEN_MORE_DATA": {}
-#     }
-#   }
-# }
+	data = response.json()
 
-data = response.json()
+	i = 0
+	l = len(data)
 
-i = 0
-l = len(data)
+	print('[Total data]:', l)
+	# printProgressBar(0, l, prefix = 'Progress:', suffix = 'Complete', length = 50)
 
-print('[Total data]:', l)
-printProgressBar(0, l, prefix = 'Progress:', suffix = 'Complete', length = 50)
+	for game_id, obj in data.items():
+		game_name = obj["name"]
+		try:
+			res = requests.get(f"https://store.steampowered.com/api/appdetails?appids={game_id}")
+			detail = res.json()
 
-for game_id, obj in data.items():
-	game_name = obj["name"]
-	try:
-		res = requests.get(f"https://store.steampowered.com/api/appdetails?appids={game_id}")
-		detail = res.json()
+			if not detail[game_id]["success"]: continue
 
-		if not detail[game_id]["success"]: continue
+			with open(f"{FOLDER_PATH}/{game_name.replace('/', '')}-{game_id}.json", "w") as f:
+				json.dump(detail, f, indent=4)
+		except TypeError:
+			print(res)
+			...
+		except:
+			print(res)
+		# printProgressBar(i + 1, l, prefix = 'Progress:', suffix = 'Complete', length = 50)
+		i+= 1
 
-		with open(f"{FOLDER_PATH}/{game_name.replace('/', '')}-{game_id}.json", "w") as f:
-			json.dump(detail, f, indent=4)
-	except TypeError:
-		...
-	printProgressBar(i + 1, l, prefix = 'Progress:', suffix = 'Complete', length = 50)
-	i+= 1
+	return 1
+	
+def multi_threading_call_api(page_num):
+    result = 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=3) as exe:
+        future_to_api = {exe.submit(call_api, idx): idx for idx in range(page_num)}
+        for future in concurrent.futures.as_completed(future_to_api):
+            result += (future.result())
 
 
-  
+    print(result)
+# multi_threading_call_api(5)
+call_api(1)
